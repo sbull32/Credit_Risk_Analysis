@@ -15,7 +15,7 @@ Below are the results of the six machine learning models we used for this analys
 
 ![Random Oversampling](https://github.com/sbull32/Credit_Risk_analysis/blob/main/Credit_Risk_Analysis/NaiveRandomOS.png)
 
-###SMOTE Oversampling
+### SMOTE Oversampling
 
 - Balanced accuracy: 0.62501
 - Precision: .99
@@ -23,7 +23,7 @@ Below are the results of the six machine learning models we used for this analys
 
 ![SMOTE Oversampling](https://github.com/sbull32/Credit_Risk_analysis/blob/main/Credit_Risk_Analysis/SmoteOS.png)
 
-###Undersampling
+### Undersampling
 
 - Balanced accuracy: .49134
 - Precision: .99
@@ -31,7 +31,7 @@ Below are the results of the six machine learning models we used for this analys
 
 ![Undersampling](https://github.com/sbull32/Credit_Risk_analysis/blob/main/Credit_Risk_Analysis/US.png)
 
-###Combination Sampling
+### Combination Sampling
 
 - Balanced accuracy: .65447
 - Precision: .99
@@ -39,7 +39,7 @@ Below are the results of the six machine learning models we used for this analys
 
 ![Combo Sampling](https://github.com/sbull32/Credit_Risk_analysis/blob/main/Credit_Risk_Analysis/ComboS.png)
 
-###Random Forest Classifier
+### Random Forest Classifier
 
 - Balanced accuracy: .99816
 - Precision: 1.00
@@ -47,7 +47,7 @@ Below are the results of the six machine learning models we used for this analys
 
 ![BRFC](https://github.com/sbull32/Credit_Risk_analysis/blob/main/Credit_Risk_Analysis/BRFC.png)
 
-###Easy Ensemble Classifier with AdaBoost
+### Easy Ensemble Classifier with AdaBoost
 
 - Balanced accuracy: 1.00000
 - Precision: 1.00
