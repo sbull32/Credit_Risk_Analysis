@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Module 17
+Supervised Machine Learning
 
 ## Overview
 The purpose of this analysis is to use machine learning models to help predict a loan applicant's credit risk. We will use data from Q1 of 2019 to train and test six different machine learn model methods and determine which one is best suited to predict an applicants credit risk in the future. 
